@@ -61,7 +61,6 @@ details[open] > *:not(summary) {
 
 ![Liascript-Logo](https://avatars.githubusercontent.com/u/32539316?s=200&v=4)
 
-
 LiaScript ist eine erweiterte Markdown-Sprache, speziell entwickelt, um interaktive Online-Kurse, Tutorials und Präsentationen zu erstellen. Es ermöglicht Autoren, Text, Multimedia-Elemente, Quizzes und sogar kleine Programme direkt in ihren Dokumenten zu integrieren, wodurch der Lerninhalt lebendiger und engagierender wird. Im Kern basiert LiaScript auf Markdown, einer leichtgewichtigen Auszeichnungssprache, die auf Einfachheit und Lesbarkeit abzielt. Markdown selbst wird häufig verwendet, um Texte für das Web zu formatieren, und LiaScript erweitert diese Fähigkeiten um interaktive und pädagogische Elemente. Die Verbindung zwischen LiaScript und Markdown liegt also in ihrer gemeinsamen Basis: LiaScript nimmt die einfache Syntax von Markdown und fügt spezielle Befehle und Funktionen hinzu, um Bildungsinhalte interaktiver zu gestalten. Dadurch bleibt LiaScript für Nutzer*innen ohne Programmierkenntnisse zugänglich, während es gleichzeitig eine reiche Palette an Funktionalitäten für die Erstellung von Lernmaterialien bietet. Der Einsatz von LiaScript in der Bildung fördert somit ein aktives Lernen und erleichtert den Zugang zu komplexen Themen durch die Verwendung von interaktiven Elementen.
 
 # 🧑‍🏫 Wozu wird es in der Lehre genutzt?
