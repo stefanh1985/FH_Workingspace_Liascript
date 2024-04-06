@@ -735,6 +735,10 @@ Github ist eine tolle Option Liascript zu bearbeiten und zu verteilen. Im folgen
 https://liascript.github.io/course/?https://github.com/stefanh1985/FS-Willkommen-2
 
 
+# ❓ Abschlussquiz
+Zum Abschluss gibt es noch die Möglichkeit ein kleines Quiz inklusive Übungen zu durchlaufen: https://commonmark.org/help/tutorial/
+
+
 # 📈 Alles ist im Wandel
 Alles befindet sich immer im Wandel, dies gilt insbesondere für Updates von Software. Ist dir ein Fehler aufgefallen oder du hast etwas was sich verndert hat und dies soll eingearbeitet werden- Toll!! Dann melde dich bitte bei:
 
