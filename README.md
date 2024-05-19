@@ -733,9 +733,6 @@ Github ist eine tolle Option Liascript zu bearbeiten und zu verteilen. Im folgen
 <div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
 
 
-# FAQ zu Liascript
-
-## Fragen & Antworten
 
 <details>
   <summary>Was ist Liascript?</summary>
