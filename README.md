@@ -729,6 +729,77 @@ Github ist eine tolle Option Liascript zu bearbeiten und zu verteilen. Im folgen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tg-KJ516o08?si=jRpSQAxU1QbgzK8R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+
+# FAQ zu Liascript
+
+## Fragen & Antworten
+
+<details>
+  <summary>Was ist Liascript?</summary>
+  <p>Liascript ist ein Tool zur Erstellung interaktiver Lernmaterialien, das auf Markdown basiert. Es ermöglicht dir, Text, Multimedia, Quizfragen und vieles mehr in deine Online-Kurse zu integrieren.</p>
+</details>
+
+<details>
+  <summary>Wie installiere ich Liascript?</summary>
+  <p>Du brauchst keine spezielle Installation, da Liascript direkt in deinem Webbrowser funktioniert. Du kannst einfach zu <a href="https://liascript.github.io">Liascript</a> gehen und loslegen.</p>
+</details>
+
+<details>
+  <summary>Welche Dateiendung haben Liascript-Dateien?</summary>
+  <p>Liascript-Dateien haben die Dateiendung <code>.md</code>, da sie auf Markdown basieren.</p>
+</details>
+
+<details>
+  <summary>Wie füge ich Multimedia-Inhalte ein?</summary>
+  <p>Du kannst Bilder, Videos und Audiodateien einfach durch Markdown-Syntax einfügen. Beispielsweise fügst du ein Bild so ein:</p>
+  <pre><code>![Bildbeschreibung](URL_zum_Bild)</code></pre>
+  <p>Für Videos und Audio kannst du HTML-Tags verwenden:</p>
+  <pre><code>&lt;video src="URL_zum_Video" controls&gt;&lt;/video&gt;
+&lt;audio src="URL_zum_Audio" controls&gt;&lt;/audio&gt;</code></pre>
+</details>
+
+<details>
+  <summary>Wie erstelle ich interaktive Quizfragen?</summary>
+  <p>Du kannst verschiedene Arten von Quizfragen erstellen, wie Multiple-Choice, Wahr/Falsch oder Lückentext. Ein einfaches Beispiel für eine Multiple-Choice-Frage sieht so aus:</p>
+  <pre><code>[[MC]]
+# Was ist 2 + 2?
+- 3
+- 4   &lt;!-- richtige Antwort --&gt;
+- 5</code></pre>
+</details>
+
+<details>
+  <summary>Wie kann ich meine Liascript-Projekte teilen?</summary>
+  <p>Du kannst deine Liascript-Dateien auf einer Plattform wie GitHub hosten oder sie auf deiner eigenen Website veröffentlichen. Liascript generiert eine URL, die du mit anderen teilen kannst.</p>
+</details>
+
+<details>
+  <summary>Gibt es Vorlagen oder Beispiele, die ich verwenden kann?</summary>
+  <p>Ja, auf der Liascript-Website gibt es viele Vorlagen und Beispiele, die dir den Einstieg erleichtern. Du kannst diese anpassen und für deine eigenen Projekte verwenden.</p>
+</details>
+
+<details>
+  <summary>Wie kann ich Hilfe bekommen, wenn ich Probleme habe?</summary>
+  <p>Es gibt eine umfangreiche Dokumentation auf der Liascript-Website. Du kannst auch die Community auf GitHub oder in den sozialen Medien um Hilfe bitten.</p>
+</details>
+
+<details>
+  <summary>Was sind die wichtigsten Vorteile von Liascript?</summary>
+  <p>Liascript ist einfach zu verwenden, flexibel und unterstützt eine Vielzahl von Medien und interaktiven Elementen. Es ermöglicht dir, ansprechende und dynamische Lernmaterialien zu erstellen, ohne umfangreiche Programmierkenntnisse.</p>
+</details>
+
+<details>
+  <summary>Ist Liascript kostenlos?</summary>
+  <p>Ja, Liascript ist kostenlos und Open Source. Du kannst es also ohne Kosten nutzen und sogar den Quellcode anpassen, wenn du möchtest.</p>
+</details>
+
+
+
+
+
 
 # ❣️ Best Practice Beispiel(e)
 
